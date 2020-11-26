@@ -1,0 +1,13 @@
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\npi\Struckt\lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\npi\Struckt\lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
